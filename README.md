@@ -1,18 +1,18 @@
-## API Routes
+# API Routes
 
-# All articles
+### All articles
 GET api/articles
 
-# Single article
+### Single article
 GET api/article/{id}
 
-# New article
+### New article
 POST api/article
 [Request body]: "id", "title", "body"
 
-# Update article
+### Update article
 PUT api/article
 [Request body]: "article_id", "title", "body"
 
-# Delete article
+### Delete article
 DELETE api/article/{id}
