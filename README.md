@@ -16,3 +16,6 @@ PUT api/article
 
 ### Delete article
 DELETE api/article/{id}
+
+
+### For full documentation visit: /docs
