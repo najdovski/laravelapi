@@ -8,7 +8,7 @@ GET api/article/{id}
 
 ### New article
 POST api/article
-[Request body]: "id", "title", "body"
+[Request body]: "title", "body"
 
 ### Update article
 PUT api/article
